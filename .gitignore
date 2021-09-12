@@ -2,3 +2,5 @@
 
 tmp/todo.txt
 tmp/*
+*.txt
+.DS_Store
