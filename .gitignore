@@ -1,6 +1,5 @@
 # chemin du fichier en absolu par rapport à la position du fichier .gitignore puisque ici notre fichier est la racine de notre projet, nous pouvons aussi utiliser des RegExp ou métacaractères : tmp/* ou tmp/*.txt
 
-tmp/todo.txt
 tmp/*
 *.txt
 *.xml
